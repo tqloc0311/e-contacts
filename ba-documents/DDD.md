@@ -23,6 +23,7 @@ The users table stores information about registered users of the app.
 |user_id|integer|Primary key that uniquely identifies the user|
 |username|varchar(255)|The user's username|
 |password|varchar(255)|The user's password|
+|enable|number|determine user account's ability (0/1)|
 |created_at|datetime|Timestamp of when the user was created|
 |updated_at|datetime|Timestamp of when the user was last updated|
 
