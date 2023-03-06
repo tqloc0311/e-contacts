@@ -17,8 +17,9 @@ The objectives of this project are:
 ## Features
 The key features of **ContactWave** include:
 
-- User account creation and management
-Contact information input and management.
+- User account creation and management 
+  
+- Contact information input and management.
 
 - NFC card writing and distribution.
   
@@ -27,10 +28,6 @@ Contact information input and management.
 - Customizable contact information fields (e.g. name, phone number, email, social profiles, etc.).
 
 - Avatar image upload and display.
-
-- QR code generation for non-NFC devices.
-
-- Analytics dashboard for tracking NFC card usage and user engagement.
 
 ## Target Audience
 The target audience for **ContactWave** includes:
@@ -44,13 +41,15 @@ The target audience for **ContactWave** includes:
 ## Technology Stack
 The technology stack for **ContactWave** includes:
 
-- Web development framework (e.g. Django, Flask).
+- Web development framework (ReactJS).
 
-- Database management system (e.g. PostgreSQL, MySQL).
+- RESTful API development framework (ExpressJS)
+
+- Database management system (PostgreSQL).
   
-- NFC writer and reader tools.
+- NFC writer tools (NFC Tool).
 
-- HTML, CSS, and JavaScript for web interface design and functionality.
+- Design tool (Figma).
 
 ## Conclusion
 **ContactWave** aims to revolutionize the way people share their contact information by providing a simple, digital, and eco-friendly solution. With its unique combination of NFC technology and web-based platform, **ContactWave** has the potential to disrupt traditional business card exchange and become the go-to tool for contact sharing in the digital age.
